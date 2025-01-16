@@ -1,8 +1,20 @@
-# Olá, eu sou Camila Diniz 👋
+# Olá, eu me chamo Camila Diniz 👋
 
-Boas vindas ao meu perfil! Sou apaixonada por tecnologia, programação e desenvolvimento web.
+🎓 **Desenvolvedora Web** | 🌐 **Frontend** | 🎨 **Entusiasta de UX/UI**   
+📈 **Aprendendo**: JavaScript, React e Figma.
+
+Eu sou apaixonada por criar experiências incríveis para os usuários, combinando boas práticas de desenvolvimento e design. Estou sempre em busca de aprender mais sobre as melhores ferramentas e frameworks para frontend e UX/UI.
+
+🧑‍💻 **Minha jornada no GitHub**: Estou em constante evolução, focada em criar projetos que combinem design e funcionalidade de forma eficiente!
+
+![Programando GIF](https://media.giphy.com/media/3o7abLXqgQ1viEZ2Vy/giphy.gif)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiladdev&show_icons=true&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/camiladdev?style=social)
+![GitHub stars](https://img.shields.io/github/stars/camiladdev?style=social)
+![Troféu GitHub](https://github-profile-trophy.vercel.app/?username=camiladdev&theme=dark)
+![Languages](https://img.shields.io/github/languages/top/camiladdev/repositorio)
+
 
 ## Encontre-me em:
 [LinkedIn](https://www.linkedin.com/in/camiladdev)
@@ -11,6 +23,8 @@ Boas vindas ao meu perfil! Sou apaixonada por tecnologia, programação e desenv
 ## Tecnologias que eu uso:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+
+> "O futuro pertence àqueles que acreditam na beleza dos seus sonhos." - Eleanor Roosevelt
 
 
 
