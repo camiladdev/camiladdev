@@ -1,4 +1,7 @@
-## Hi there 👋
+# Olá, eu sou Camila Diniz 👋
+
+Boas vindas ao meu perfil! Sou apaixonada por tecnologia, programação e desenvolvimento web.
+
 
 <!--
 **camiladdev/camiladdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
