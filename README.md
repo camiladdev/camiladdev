@@ -7,7 +7,7 @@ Eu sou apaixonada por criar experiências incríveis para os usuários, combinan
 
 🧑‍💻 **Minha jornada no GitHub**: Estou em constante evolução, focada em criar projetos que combinem design e funcionalidade de forma eficiente!
 
-![Programando GIF](https://media.giphy.com/media/3o7abLXqgQ1viEZ2Vy/giphy.gif)
+![Programando GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBlM3U1NHFiMTRuc2p2dnd2aW9pYmdlYnoycWN0ejhpbjY2eTZuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiladdev&show_icons=true&theme=radical)
 ![GitHub followers](https://img.shields.io/github/followers/camiladdev?style=social)
